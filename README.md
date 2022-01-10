@@ -1,2 +1,3 @@
 # Data-Structure
-Basic Data Structure Implementation using Java.
+Basic Data Structures Implementation using Java.  
+With some applications using these implemented data structures.
